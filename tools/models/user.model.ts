@@ -5,6 +5,7 @@ export class UserModel {
   id: string;
   name: string;
   surname: string;
+  birthDay:Date;
   image: string;
   email: string;
   password: string;
